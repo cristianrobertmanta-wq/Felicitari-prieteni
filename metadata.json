@@ -1,0 +1,6 @@
+{
+  "name": "Felicitari Prieteni NFT",
+  "description": "Aplicație Web3 pe rețeaua Polygon (Amoy Testnet) pentru trimiterea de felicitări unice NFT și gestionarea listei comune de persoane dragi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
